@@ -26,5 +26,13 @@ public class DirectionTest {
         assertEquals("West", Direction.West.toString());
     }
 
+    @Test
+public void testIsOpposite() {
+    Direction up = Direction.North;
+    Direction down = Direction.South;
+    assertFalse(up.isOpposite(down)); // This test currently passes
+}
+
+
     // You could add more tests here if the Direction enum had other methods
 }
