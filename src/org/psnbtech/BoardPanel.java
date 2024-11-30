@@ -7,6 +7,7 @@ import java.awt.Graphics;
 import java.awt.Point;
 
 import javax.swing.JPanel;
+//comment 
 
 /**
  * The {@code BoardPanel} class is responsible for managing and displaying the
