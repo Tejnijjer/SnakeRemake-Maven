@@ -4,6 +4,8 @@ package org.psnbtech;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
+import org.psnbtech.Direction;
+
 public class DirectionTest {
 
     @Test
