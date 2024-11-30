@@ -1,5 +1,7 @@
 package org.psnbtech;
 
+//import java.util.function.BooleanSupplier;
+
 /**
  * The {@code Direction} enum is used to determine which way the Snake is moving.
  * @author Brendan Jones
@@ -25,6 +27,7 @@ public enum Direction {
 	/**
 	 * Moving West (Left).
 	 */
-	West
+	West;
+
 	
 }
