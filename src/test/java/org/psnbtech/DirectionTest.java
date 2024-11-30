@@ -24,7 +24,9 @@ public class DirectionTest {
         assertEquals("East", Direction.East.toString());
         assertEquals("South", Direction.South.toString());
         assertEquals("West", Direction.West.toString());
+
+        
     }
 
-    // You could add more tests here if the Direction enum had other methods
+
 }
