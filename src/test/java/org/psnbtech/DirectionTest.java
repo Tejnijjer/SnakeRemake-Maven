@@ -25,6 +25,8 @@ public class DirectionTest {
         assertEquals("South", Direction.South.toString());
         assertEquals("West", Direction.West.toString());
 
+        fail("Intentional failure to demonstrate Jenkins build failure.");
+
     }
 
 
